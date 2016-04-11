@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 ![misaki logo](https://github.com/liquidz/misaki/raw/master/samples/blog/public/img/logo.png)
 
 [![Build Status](https://secure.travis-ci.org/liquidz/misaki.png?branch=master)](http://travis-ci.org/liquidz/misaki)
